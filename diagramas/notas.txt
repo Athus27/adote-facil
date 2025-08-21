@@ -1,5 +1,0 @@
-diagrama de pacotes
---frontend
---backend
---banco de dados
-
